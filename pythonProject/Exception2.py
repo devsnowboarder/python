@@ -1,5 +1,4 @@
 
-t
 def main():
 
     try:
