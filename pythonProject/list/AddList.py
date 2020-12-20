@@ -10,9 +10,6 @@ class listfunction:
 
 li =['a','b','new','test','google','apple']
 
-myList(li,'Oracle')
-
-
 
 li.append('Intel')
 

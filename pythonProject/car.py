@@ -12,6 +12,8 @@ class car():
 
 audi = car("audi a4","blue")
 ferrari = car ("ferrari 488", "green")
-
-audi.show()
+ford = car("F150","black")
+toyota = car("Supra","white")audi.show()
 ferrari.show()
+ford.show()
+toyota.show()
