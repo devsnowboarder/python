@@ -1,4 +1,5 @@
-# Python code to find frequency of each word 
+# Python code to find frequency of each word
+#using the frequency number
 def freq(str):
     # break the string into list of words
     str = str.split()
@@ -13,6 +14,7 @@ def freq(str):
             str2.append(i)
 
     print(len(str2))
+
 
     for i in range(0, len(str2)):
         # count the frequency of each word(present
