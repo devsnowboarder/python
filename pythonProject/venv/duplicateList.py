@@ -14,9 +14,6 @@ def duplicateList(elements):
 
     return returnList
 
-
-
-
 Elements =list()
 
 Elements.append("JAVA");

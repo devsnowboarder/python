@@ -25,7 +25,7 @@ def reverseList(listOfElements):
 
     print(listOfElements)
 
-
+#Checkk for duplicate and list
 def main():
     listOfElems = ['Hello', 'Ok', 'is', 'Ok', 'test', 'this', 'is', 'a', 'test']
     print(checkIfDuplicates_1(listOfElems))
