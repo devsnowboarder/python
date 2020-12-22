@@ -10,12 +10,17 @@ Elements.append("JAVA");
 Elements.append("STRUTS");
 Elements.append("JSP");
 
-
+print("test")
 print(Elements)
 ElementsSet = set()
 for elm in Elements:
-    ElementsSet.add(elm)
+    if ElementsSet.add(elm):
+        print("added ")
 
+
+
+print(ElementsSet)
+# print all the duplicate items
 for elm in ElementsSet:
     if Elements.count(elm) > 1:
         print(elm)
