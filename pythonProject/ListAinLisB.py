@@ -8,8 +8,7 @@ listSet = set()
 for item in listB:
   countList.append(item)
 
-
-
+print(countList)
 
 for item in listA:
     countList.append(item)

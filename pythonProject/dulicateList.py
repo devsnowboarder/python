@@ -30,7 +30,7 @@ def main():
     listOfElems = ['Hello', 'Ok', 'is', 'Ok', 'test', 'this', 'is', 'a', 'test']
     print(checkIfDuplicates_1(listOfElems))
 
-    print(len(set(listOfElems)))
+  #  print(len(set(listOfElems)))
     print(checkIfDuplicates_2(listOfElems))
 
     mikeset = set()
