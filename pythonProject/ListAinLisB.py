@@ -15,3 +15,13 @@ for item in listA:
     if countList.count(item) > 1:
         print(item)
 
+listBlst = set()
+
+for  x in listB:
+    listBlst.add(x)
+
+print(listBlst)
+
+for x in listA:
+    if x  in listB:
+        print(x)
