@@ -1,0 +1,25 @@
+{
+"data": [
+ {
+  "id": "A001",
+  "name": "John"
+  "address": {
+   "city": "Los Angeles",
+   "state": "California",
+   "zip": "90001"},
+  "position": "Manager",
+ "department": "Sales",
+ "number of years": "10"
+},
+ {
+  "id": "A002",
+  "name": "Ana"
+  "address": {
+   "city": "San Diego",
+   "state": "California",
+   "zip": "91911"},
+  "position": "Analyst",
+  "department": "Marketing",
+ "number of years": "2" }
+]
+}
