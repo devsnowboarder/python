@@ -9,6 +9,7 @@ print(Dict)
 Dict = dict({1: 'Geeks', 2: 'For', 3: 'Geeks'})
 print("\nDictionary with the use of dict(): ")
 print(Dict)
+print(Dict[2])
 
 # Creating a Dictionary
 # with each item as a Pair
