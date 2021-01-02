@@ -6,3 +6,14 @@ Maxcount = max(c)
 print(c)
 
 print(Maxcount)
+
+setList =set()
+
+for x in a:
+    setList.add(x)
+
+print(setList)
+
+for x in setList:
+   if  a.count(x) > 1:
+       print(" duplicate number  "+str(x))
