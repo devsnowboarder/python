@@ -26,7 +26,7 @@ def reverseList(listOfElements):
     print(listOfElements)
 
 #Checkk for duplicate and list
-def main():
+#def main():
     listOfElems = ['Hello', 'Ok', 'is', 'Ok', 'test', 'this', 'is', 'a', 'test']
     print(checkIfDuplicates_1(listOfElems))
 
@@ -43,4 +43,4 @@ def main():
         print(n)
 
 
-if __name__ == '__main__': main()
+#if __name__ == '__main__': main()

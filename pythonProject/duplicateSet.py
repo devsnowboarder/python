@@ -25,4 +25,10 @@ for elm in ElementsSet:
     if Elements.count(elm) > 1:
         print(elm)
 
+print(" this is a test ")
+for elm in set(Elements):
+   # print(elm)
+    if ( Elements.count(elm) > 1):
+        print(elm)
+
 
