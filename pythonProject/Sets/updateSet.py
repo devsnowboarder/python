@@ -13,10 +13,6 @@ class setTest(list):
                     res.append(x)
             return Set(res)
 
-
-
-
-
 s = set('ABC')
 s2= set('DEF')
 setX = setTest(s)
